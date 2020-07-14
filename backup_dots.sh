@@ -22,6 +22,6 @@ cp-improved $HOME/.zshrc ~/Documents/Files/Bash/MacOS-Dotfiles/
 cp-improved $HOME/spicetify_data/Themes ~/Documents/Files/Bash/MacOS-Dotfiles/spicetify_data/Themes
 cp-improved $HOME/spicetify_data/config.ini ~/Documents/Files/Bash/MacOS-Dotfiles/spicetify_data/
 cp-improved $HOME/.wallpaper ~/Documents/Files/Bash/MacOS-Dotfiles/.wallpaper
-cp-improved $HOME/.tmux.conf ~/Documents/Files/Bash/MacOS-Dotfiles/.tmux.conf
+cp-improved $HOME/.tmux.conf ~/Documents/Files/Bash/MacOS-Dotfiles/
 
 
