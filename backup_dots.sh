@@ -14,6 +14,7 @@ cp-improved $HOME/bin/ ~/Documents/Files/Bash/MacOS-Dotfiles/bin
 cp-improved $HOME/scripts ~/Documents/Files/Bash/MacOS-Dotfiles/
 cp-improved $HOME/.yabairc ~/Documents/Files/Bash/MacOS-Dotfiles/
 cp-improved $HOME/.config/ranger/ ~/Documents/Files/Bash/MacOS-Dotfiles/.config/ranger
+cp-improved $HOME/.config/nvim/ ~/Documents/Files/Bash/MacOS-Dotfiles/.config/nvim
 cp-improved $HOME/.config/alacritty ~/Documents/Files/Bash/MacOS-Dotfiles/.config/
 cp-improved $HOME/.profile ~/Documents/Files/Bash/MacOS-Dotfiles/
 cp-improved $HOME/.skhdrc ~/Documents/Files/Bash/MacOS-Dotfiles/
